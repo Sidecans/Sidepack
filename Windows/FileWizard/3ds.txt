@@ -1,0 +1,4 @@
+.3ds 
+3DS Max File
+Open With Autodesk 3DS Max
+Open With Adobe Photoshop
